@@ -4,7 +4,7 @@
 
 - 👀 I’m interesting on technology advances
 - 🌱 I’m currently learning html, CSS and JavaScript
-- 💞️ I’m collaborate on Engineer proyects of [CEII UNAM ] (https://www.facebook.com/CEIIUNAM/)
+- 💞️ I’m collaborate on Engineer proyects of [CEII UNAM](https://www.facebook.com/CEIIUNAM/)
 
 
 <!---
