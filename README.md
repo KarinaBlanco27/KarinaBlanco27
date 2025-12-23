@@ -4,7 +4,7 @@
 
 - 👷🏻‍♀️ I’m a student of Electrical and Electronic Engineering
 - 👀 I’m interesting on technology advances
-- 🌱 I’m currently learning HTML, CSS, JavaScript and C++
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, App Inventor and C++
 - ⚙ I’m collaborate on Engineer projects on [CEII UNAM](https://www.facebook.com/CEIIUNAM/)
 - 💕 Fun fact: I love crochet
 
